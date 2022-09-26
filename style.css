@@ -9,6 +9,7 @@ body {
   background-position: center; 
 }
 
+
 <style>
 div.slide-right {
   width:100%;
@@ -27,12 +28,10 @@ div.slide-right p {
   to {
     margin-left: 0%;
     width: 100%;
-    color: hotpink;
   }
+  
+</style>
 
 <div class="slide-right">
 <p>Everything is funny, as long as it's happening to somebody else.</p>
 </div>
-}
-</style>
-
